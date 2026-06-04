@@ -1,4 +1,4 @@
-## Elementos do grupo:
+## Elementos do grupo (Breckout 7):
 - Anderson Semedo
 - Gilson Carvalho
 - Veronica Andrade
@@ -7,3 +7,6 @@
 
 ## Servidor Web Escolhido
 - Apache
+
+## Rota de publicação:
+- `/var/www/html/index.html`
